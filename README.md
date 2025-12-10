@@ -1,5 +1,5 @@
-# Cart-Abandonment---Swire
-Examining cart abandonment for Swire's MyCoke360.
+# Cart-Abandonment
+Examining cart abandonment for an online retailer
 
 1. Summary of Business Problem & Project Objective
 
